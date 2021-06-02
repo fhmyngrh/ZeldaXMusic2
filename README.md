@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V4.0 🎵</h1>
+<h1 align="centre">Zelda Music Bot V2.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@zeldamusicbot](https://t.me/zeldamusicbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/ab7334e451446f46ed6d8.png">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -25,7 +25,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamdaisyx/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fhmyngrh/ZeldaXMusic2)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
