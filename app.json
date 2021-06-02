@@ -1,8 +1,9 @@
 {
-  "name": "DaisyXMusic",
+  "name": "Zelda Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "logo": "https://telegra.ph/file/60d1422a9e0ff8f93951a.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "repository": "https://github.com/fhmyngrh/ZeldaXMusic2",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -25,12 +26,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "Friendlycircle"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "DaisyXMusic v4"
+      "value": "Zelda Music Bot"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -44,12 +45,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
+      "value": "https://telegra.ph/file/b7584ca8d5f66a169265d.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "oppaidaisukii"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -71,7 +72,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "10"
+      "value": "120"
     }
   }
 }
