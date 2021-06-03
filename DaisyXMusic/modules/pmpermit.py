@@ -33,7 +33,7 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                "Halo,,\nSelamat datang, ini adalah assistent service dari @zeldamusicbot .\n\n⚠️Rules:\n- Dilarang Chat Disini\n-Dilarang Spam Disini \n\n 👉 **KIRIM TAUTAN GROUP ANDA KESINI ATAU UNDANG** @zeldamusicbot **KE GROUP ANDA**\n\n**JANGAN LUPA JOIN** @Friendlycircle\n\n**🤖 Developed by @oppaidasukii**",
+                "Halo,,\nSelamat datang, ini adalah assistent service dari @zeldamusicbot .\n\n⚠️Rules:\n- Dilarang Chat Disini\n-Dilarang Spam Disini \n\n 👉 **KIRIM TAUTAN GROUP ANDA KESINI ATAU UNDANG** @zeldamusicbot **KE GROUP ANDA**\n\n**JANGAN LUPA JOIN** @Friendlycircle\n\n**🤖 Developed by** @oppaidasukii",
             )
             return
 
